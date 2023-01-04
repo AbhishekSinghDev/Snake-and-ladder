@@ -7,5 +7,7 @@ int main() {
     int b = 2;
     cout<<"Division: "<<a/b;
 
+    cout<<"Hello";
+
     return 0;
 }
